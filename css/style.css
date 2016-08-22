@@ -81,7 +81,7 @@ li img {
   text-align:right;
 }
 
-em {
+.emphasis {
   font-weight: bold;
   display: inline;
   font-family: Georgia, sans-serif;
