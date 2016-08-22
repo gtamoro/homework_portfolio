@@ -81,13 +81,6 @@ li img {
   text-align:right;
 }
 
-.emphasis {
-  font-weight: bold;
-  display: inline;
-  font-family: Georgia, sans-serif;
-  font-style: italic;
-}
-
 nav {
   text-align: center;
   margin-top: 30px;
@@ -112,6 +105,13 @@ a:active {
   font-style: italic;
   font-weight: bold;
   text-decoration: none;
+}
+
+.emphasis {
+  font-weight: bold;
+  display: inline;
+  font-family: Georgia, sans-serif;
+  font-style: italic;
 }
 
 .clearfix {
