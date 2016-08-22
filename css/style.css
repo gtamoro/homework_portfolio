@@ -108,7 +108,6 @@ a:active {
 
 .emphasis {
   font-weight: bold;
-  display: inline;
   font-family: Georgia, sans-serif;
   font-style: italic;
 }
